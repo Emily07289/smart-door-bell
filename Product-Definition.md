@@ -1,4 +1,3 @@
----
 1.Motion Detection<br>
 2.Recording Video to SD card<br>
 3.Google Notify<br>
