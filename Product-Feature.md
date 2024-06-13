@@ -23,5 +23,5 @@ Able to integrate with other smart home devices, such as smart locks, surveillan
 
 ## Local Processing:<br>
 Some AI doorbell products have local processing capabilities, able to perform person recognition and alarm generation on the device, reducing reliance on cloud services, improving system response speed, and security.<br>
----
+--- ---
 Overall, AI doorbell products typically feature smart alerts, person recognition, video recording, two-way communication, etc., enhancing resident safety and convenience, and achieving smart integration with other smart home devices.
